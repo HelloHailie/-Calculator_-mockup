@@ -22,7 +22,7 @@ body {
 }
 
 .input-window {
-  border: 1px solid yellow;
+  border: 1px solid;
   height: 100px;
   justify-content: flex-end;
 }
